@@ -2,5 +2,9 @@
 
 List of achar business that are based or working in Nepal. 🇳🇵
 
-- [Aama Ko Achar](https://www.aamakoachar.com/) | Aama Ko Achar offers homemade Nepali pickles and sauces crafted with love, tradition, and bold flavors from fresh, local ingredients.
-- [Ghar ko Achar](https://www.gharkoachar.com.np/) | We make your meal magical with a selected variety of Homemade Achaar(Pickle). Made from fresh & organic ingredients, with no added food coloring, artificial preservatives & MSG.
+- [Aama Ko Achar](https://www.aamakoachar.com/) - 
+- [Ghar ko Achar](https://www.gharkoachar.com.np/) -
+- [Thaha ko Achar](https://www.facebook.com/profile.php?id=61556258102833) -
+- [Achar Nation](https://www.facebook.com/profile.php?id=61560953620137) -
+- [Unique Achar Nepal](https://www.facebook.com/uniqueacharnepal) -
+- [Pickle Paradise](https://pickleparadise.org/) -
