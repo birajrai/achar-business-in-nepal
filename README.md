@@ -32,7 +32,7 @@ Achar (pickle) is an integral part of Nepali cuisine. These spicy, tangy condime
 - **Location**: Lazimpat, Kathmandu
 - **Products**: Organic achar varieties, gundruk, sinki
 - **Type**: Manufacturer & Retailer
-- **Website**: himalayan-organic.com
+- **Website**: https://himalayan-organic.com
 
 #### 5. **Kathmandu Kitchen**
 - **Location**: Thamel, Kathmandu
@@ -112,19 +112,19 @@ Achar (pickle) is an integral part of Nepali cuisine. These spicy, tangy condime
 - **Location**: Online (delivers nationwide)
 - **Products**: Various brands of Nepali achar
 - **Type**: E-commerce platform
-- **Website**: nepbazar.com
+- **Website**: https://nepbazar.com
 
 #### 16. **Daraz Nepal - Pickle Section**
 - **Location**: Online (delivers nationwide)
 - **Products**: Multiple brands of commercial pickles
 - **Type**: E-commerce platform
-- **Website**: daraz.com.np
+- **Website**: https://daraz.com.np
 
 #### 17. **SastoDeals Nepal**
 - **Location**: Online
 - **Products**: Nepali traditional pickles
 - **Type**: E-commerce platform
-- **Website**: sastodeals.com
+- **Website**: https://sastodeals.com
 
 ## Popular Nepali Achar Types
 
